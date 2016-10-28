@@ -9,7 +9,11 @@ This is a test!
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi
+=======
+
+>>>>>>> parent of 8e3ea87... master
 =======
 
 >>>>>>> parent of 8e3ea87... master
