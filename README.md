@@ -6,7 +6,11 @@ This is a test!
 =======
 
 
+<<<<<<< HEAD
 hi
+=======
+
+>>>>>>> parent of e841611... Merge remote-tracking branch 'remotes/origin/patch'
 
 
 test
