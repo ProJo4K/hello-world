@@ -23,6 +23,10 @@ hi
 =======
 This is a test!
 
+<<<<<<< HEAD
+=======
+This is a test!
+
 test
 >>>>>>> parent of 2d7a418... test
 >>>>>>> parent of a3462e5... Patch
