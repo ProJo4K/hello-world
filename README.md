@@ -2,6 +2,7 @@
 Just another repository
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 =======
@@ -34,3 +35,6 @@ This is a test!
 test
 >>>>>>> parent of 2d7a418... test
 >>>>>>> parent of a3462e5... Patch
+=======
+
+>>>>>>> parent of 8659bd8... patch
