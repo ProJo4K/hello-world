@@ -1,8 +1,12 @@
 # hello-world
 Just another repository
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
+=======
+.
+>>>>>>> parent of 66709cf... Revert "Revert "Revert "Revert "Revert "Revert "test""""""
 This is a test!
 <<<<<<< HEAD
 =======
