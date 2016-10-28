@@ -19,6 +19,10 @@ hi
 >>>>>>> parent of 8e3ea87... master
 
 
+<<<<<<< HEAD
+=======
+This is a test!
+
 test
 >>>>>>> parent of 2d7a418... test
 >>>>>>> parent of a3462e5... Patch
