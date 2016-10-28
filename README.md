@@ -5,6 +5,7 @@ Just another repository
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 =======
 .
 >>>>>>> parent of 66709cf... Revert "Revert "Revert "Revert "Revert "Revert "test""""""
@@ -38,3 +39,6 @@ test
 =======
 
 >>>>>>> parent of 8659bd8... patch
+=======
+test
+>>>>>>> parent of e905d1b... patch
