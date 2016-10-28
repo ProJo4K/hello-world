@@ -8,7 +8,11 @@ This is a test!
 =======
 
 
+<<<<<<< HEAD
 hi
+=======
+
+>>>>>>> parent of 8e3ea87... master
 
 
 test
